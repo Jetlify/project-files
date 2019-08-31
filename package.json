@@ -1,7 +1,9 @@
 {
-
-    "version": "1.0.0",
-    "scripts": {
-        "develop": "start index.html"
-    }
+  "name": "project-files",
+  "version": "1.0.0",
+  "description": "FIRELY Project Files ",
+  "main": "index.js",
+  "repository": "https://github.com/Jetlify/project-files.git",
+  "author": "TheRevQ <therevq.gethero@gmail.com>",
+  "license": "MIT"
 }
